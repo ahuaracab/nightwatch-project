@@ -1,0 +1,24 @@
+{
+    "name": "nightwatch-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "nightwatch --env chrome"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ahuaracab/nightwatch-project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ahuaracab/nightwatch-project/issues"
+    },
+    "homepage": "https://github.com/ahuaracab/nightwatch-project#readme",
+    "devDependencies": {
+        "chromedriver": "^102.0.0",
+        "nightwatch": "^2.2.2"
+    }
+}
